@@ -1,12 +1,18 @@
 # magento_versions
 A chart of Magento 1 version number and release dates.
 
+Release dates that are close are put on the same line. The CE release date is only shown when it's different from the EE release date.
+
 EE version | EE date | CE version | CE date | PE
---- | --- | --- | --- | --
- &nbsp; |  | _1.3.2.3_ |  | 
-_1.3.2.4_ |  | _1.3.2.4_ |  | 
-1.6.0.0 |  |  |  | 
-1.7.0.0 |  |  |  | 
+--- | --- | --- | --- | ---
+&nbsp; |  | 1.0 | 2008-3-31 | 
+&nbsp; |  | 1.3 | 2009-3-30 | 
+1.3.2.4 | 2009-4-15 |  |  | 
+&nbsp; |  | 1.3.2.3 | 2009-7-22 | 
+&nbsp; |  | 1.3.2.4 | 2009-9-23 | 
+1.6.0.0 | 2009-10-30 |  |  | 
+1.7.0.0 | 2010-1-19 | 1.4.0.0 | 2010-2-12 | 
+&nbsp; |  | 1.4.0.1 |  | 
 1.7.1.0 |  |  |  | 
 1.8.0.0 |  |  |  | 1.8.0.0
 1.9.0.0 |  | 1.4.0.0 |  | 1.9.0.0
@@ -45,3 +51,4 @@ _1.3.2.4_ |  | _1.3.2.4_ |  |
 1.14.3.1 | 2016-11-5 | 1.9.3.1 |  | 
 1.14.3.2 | 2017-2-8 | 1.9.3.2 |  | 
 1.14.3.3 | 2017-6-6 | 1.9.3.3 |  | 
+
