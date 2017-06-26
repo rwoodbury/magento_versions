@@ -1,7 +1,7 @@
 # Magento 1 Versions
 A chart of Magento 1 version number and release dates.
 
-Release dates that are close are put on the same line. The non-EE release date is only shown when it's different from the EE release date. Some of these date come from "git log" and others (earlier) come from internet searches.
+The non-EE release date is only shown when it's different from the EE release date. The source for some of these dates come from "git log" and others (earlier) come from internet searches.
 
 Releases line up based roughly on this algorithm:
 - PE and EE by exact version number;
